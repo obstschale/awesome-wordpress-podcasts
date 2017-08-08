@@ -1,4 +1,7 @@
-![Wapuu Micro](assets/wapuu-micro.png)
+
+<div align="center">
+	<img width=400 src=assets/wapuu-micro.png />
+</div>
 
 *** 
 
