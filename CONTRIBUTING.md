@@ -10,6 +10,7 @@ If it is a more general geeky podcast, which happen to talk about WordPress some
 
 ## Add a new podcast
 
+1. Check the [Code of Conduct](CODE_OF_CONDUCT.md) first.
 1. Add a new language if it does not exist yet.
   - For a new section follow the pattern `<english language name> / <native language name>`
   - Don't forget to add it to the table of contents.

@@ -32,6 +32,12 @@ A collection of awesome WordPress related podcast in all languages.
 * [PressWerk](https://presswerk.net) - Thorsten und Simon besprechen Entwickler Themen, sowie auch Blogger, Anwender und Einsteiger Themen.
 * [WP Sofa](https://wp-sofa.de) - Das Trio Hans-Helge, René und Sven reden über News in der WP Welt, laden Gäster ein und stellen auch mal Plugins vor.
 
+***
+
+## Contributing
+
+You want to add an awesome WordPress podcast to the list? Nice! Please follow the steps in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
