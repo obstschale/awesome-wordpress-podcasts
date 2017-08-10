@@ -12,12 +12,12 @@ If it is a more general geeky podcast, which happen to talk about WordPress some
 
 1. Check the [Code of Conduct](CODE_OF_CONDUCT.md) first.
 1. Add a new language if it does not exist yet.
-  - For a new section follow the pattern `<english language name> / <native language name>`
-  - Don't forget to add it to the table of contents.
+    * For a new section follow the pattern `<english language name> / <native language name>`
+    * Don't forget to add it to the table of contents.
 1. Edit `README.md` and add this awesome podcast to the list.
-  - Podcasts should be alphabetically sorted.
-  - Add your links: `* [podcast-name](http://example.com/) - A short description ends with a dot.`
-  - Descriptions can be in english or in its native language.
+    * Podcasts should be alphabetically sorted.
+    * Add your links: `* [podcast-name](http://example.com/) - A short description ends with a dot.`
+    * Descriptions can be in english or in its native language.
 1. Check your spelling and grammar.
 1. Make sure to remove trailing whitespace.
 1. Send a pull request.
