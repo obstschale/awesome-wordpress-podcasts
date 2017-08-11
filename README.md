@@ -13,6 +13,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 * [English](#english)
 * [German / Deutsch](#german--deutsch)
+* [Japanese](#Japanese)
 
 ***
 
