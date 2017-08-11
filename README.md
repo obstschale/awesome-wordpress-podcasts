@@ -33,6 +33,10 @@ A collection of awesome WordPress related podcast in all languages.
 * [PressWerk](https://presswerk.net) - Thorsten und Simon besprechen Entwickler Themen, sowie auch Blogger, Anwender und Einsteiger Themen.
 * [WP Sofa](https://wp-sofa.de) - Das Trio Hans-Helge, René und Sven reden über News in der WP Welt, laden Gäster ein und stellen auch mal Plugins vor.
 
+## Japanese
+
+* [capitalp.jp](https://capitalp.jp/podcast/) - CapitalP.jp is a Japanese blog about WordPress development, contributing or so.
+
 ***
 
 ## Contributing
