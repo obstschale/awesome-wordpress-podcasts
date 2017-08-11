@@ -13,6 +13,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 * [English](#english)
 * [German / Deutsch](#german--deutsch)
+* [Japanese](#Japanese)
 
 ***
 
@@ -32,6 +33,10 @@ A collection of awesome WordPress related podcast in all languages.
 * [capital_P_odcast](https://capital-p.de/) - Maja und Bernhard richten sich vor allem an Anwender und Einsteiger.
 * [PressWerk](https://presswerk.net) - Thorsten und Simon besprechen Entwickler Themen, sowie auch Blogger, Anwender und Einsteiger Themen.
 * [WP Sofa](https://wp-sofa.de) - Das Trio Hans-Helge, René und Sven reden über News in der WP Welt, laden Gäster ein und stellen auch mal Plugins vor.
+
+## Japanese
+
+* [capitalp.jp](https://capitalp.jp/podcast/) - CapitalP.jp is a Japanese blog about WordPress development, contributing or so.
 
 ***
 
