@@ -32,6 +32,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 * [capital_P_odcast](https://capital-p.de/) - Maja und Bernhard richten sich vor allem an Anwender und Einsteiger.
 * [PressWerk](https://presswerk.net) - Thorsten und Simon besprechen Entwickler Themen, sowie auch Blogger, Anwender und Einsteiger Themen.
+* [WordPress & Webwork Podcast](https://www.perun.net/kategorie/podcast/) - Ein Podcast von perun.net über WordPress und Webwork.
 * [WP Sofa](https://wp-sofa.de) - Das Trio Hans-Helge, René und Sven reden über News in der WP Welt, laden Gäster ein und stellen auch mal Plugins vor.
 
 ## Japanese
