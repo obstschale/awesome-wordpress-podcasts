@@ -28,6 +28,14 @@ A collection of awesome WordPress related podcast in all languages.
 * [WP Plugins A to Z](http://wppluginsatoz.com/) - The weekly podcast that covers an assortment of plugins from WordPress.
 * [WP Tonic](https://www.wp-tonic.com/) - Business podcast covering the intersection of WordPress development, business, and marketing.
 
+## Spanish
+
+* [Post Type Podcast](https://www.dariobf.com/podcast) - Podcast sobre WordPress, diseño y desarrollo web por Darío (@DarioBF). Todos los martes a las 8am.
+* [WPRadio](https://wpradio.es/) - El podcast de WordPress por Joan Artés (@Joan_Artes) y Joan Boluda (@joanboluda). Todos los miércoles a las 19:19
+* [WordPress Diario](https://www.fernan.com.es/podcast/) - WordPress Diario es un podcast sobre sobre desarrollo web con WordPress y marketing online por Fernan Díez (@fernan)
+* [WPNovatos](https://www.wpnovatos.com/podcast/) - Podcast semanal con tutoriales paso a paso para crear tu blog.
+* [WPdesdeCero](https://wpdesdezero.com/) - Tutoriales WordPress, Herramientas... Aquí encontrarás todo tipo de Tutoriales WordPress
+
 ## German / Deutsch
 
 * [capital_P_odcast](https://capital-p.de/) - Maja und Bernhard richten sich vor allem an Anwender und Einsteiger.
