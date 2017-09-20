@@ -44,6 +44,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 ## Spanish / Español
 
+* [Dinamización Tecnológica y WordPress](https://www.dinapyme.com/podcasts/) - Para escuchar un podcast de audio, pasa el ratón sobre el título y pulsa Reproducir. Abre iTunes para descargar y suscribirte a podcasts.
 * [Post Type Podcast](https://www.dariobf.com/podcast) - Podcast sobre WordPress, diseño y desarrollo web por Darío (@DarioBF). Todos los martes a las 8am.
 * [WPRadio](https://wpradio.es/) - El podcast de WordPress por Joan Artés (@Joan_Artes) y Joan Boluda (@joanboluda). Todos los miércoles a las 19:19.
 * [WordPress Diario](https://www.fernan.com.es/podcast/) - WordPress Diario es un podcast sobre sobre desarrollo web con WordPress y marketing online por Fernan Díez (@fernan).
