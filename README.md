@@ -22,10 +22,11 @@ A collection of awesome WordPress related podcast in all languages.
 
 * [Apply Filters](http://applyfilters.fm/) - Apply Filters is a podcast dedicated to WordPress development and brought to you by Brad Touesnard and Pippin Williamson.
 * [Commit Access](https://commitaccess.com/) - Intimate conversations with WordPress Contributors.
-* [The JavaScript for WordPress Show](https://javascriptforwp.com/show/) - Zac Gordon talks with JavaScript Influencers inside and outside of the WordPress Community.
+* [How I Built It](https://howibuilt.it/) - How I Built It is a podcast that asks, How did you build that? Look for new episodes every Tuesday!
 * [Matt Report](https://mattreport.com/) - A podcast for freelancers, agency owners, product creators, craving actionable advice -- with a pulse on the WordPress world.
 * [Post Status](https://poststatus.com/) - This is the Post Status Draft podcast with Brian Krogsgard and Joe Hoyle.
 * [rethink.fm](https://rethink.fm/) Forward thinking podcast about web design and front-end development in WordPress.
+* [The JavaScript for WordPress Show](https://javascriptforwp.com/show/) - Zac Gordon talks with JavaScript Influencers inside and outside of the WordPress Community.
 * [WPWeekly](https://wptavern.com/) - WordPress Weekly is a WPTavern podcast and focuses on news with supplemental interviews and discussion.
 * [WP Elevation](https://www.wpelevation.com/) - A premier WordPress business podcast. It brings you interviews with successful entrepreneurs in the WordPress industry to help you build a successful WordPress business.
 * [WP Plugins A to Z](http://wppluginsatoz.com/) - The weekly podcast that covers an assortment of plugins from WordPress.
