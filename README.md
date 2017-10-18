@@ -24,6 +24,7 @@ A collection of awesome WordPress related podcast in all languages.
 * [Commit Access](https://commitaccess.com/) - Intimate conversations with WordPress Contributors.
 * [How I Built It](https://howibuilt.it/) - How I Built It is a podcast that asks, How did you build that? Look for new episodes every Tuesday!
 * [Matt Report](https://mattreport.com/) - A podcast for freelancers, agency owners, product creators, craving actionable advice -- with a pulse on the WordPress world.
+* [Office Hours](https://officehours.fm/) - OfficeHours.FM is a weekly podcast targeting small business owners, freelancers, and others providing WordPress-based products or services.
 * [Post Status](https://poststatus.com/) - This is the Post Status Draft podcast with Brian Krogsgard and Joe Hoyle.
 * [rethink.fm](https://rethink.fm/) Forward thinking podcast about web design and front-end development in WordPress.
 * [The JavaScript for WordPress Show](https://javascriptforwp.com/show/) - Zac Gordon talks with JavaScript Influencers inside and outside of the WordPress Community.
