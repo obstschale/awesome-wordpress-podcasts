@@ -22,6 +22,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 * [Apply Filters](http://applyfilters.fm/) - Apply Filters is a podcast dedicated to WordPress development and brought to you by Brad Touesnard and Pippin Williamson.
 * [Commit Access](https://commitaccess.com/) - Intimate conversations with WordPress Contributors.
+* [Do the Woo](https://bobwp.com/woocommerce-podcast/) - Do the Woo Podcast where I bring on co-hosts with expertise in the eCommerce and WordPress space to talk about news, products and everything WooCommerce.
 * [How I Built It](https://howibuilt.it/) - How I Built It is a podcast that asks, How did you build that? Look for new episodes every Tuesday!
 * [Matt Report](https://mattreport.com/) - A podcast for freelancers, agency owners, product creators, craving actionable advice -- with a pulse on the WordPress world.
 * [Office Hours](https://officehours.fm/) - OfficeHours.FM is a weekly podcast targeting small business owners, freelancers, and others providing WordPress-based products or services.
