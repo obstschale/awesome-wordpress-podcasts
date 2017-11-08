@@ -20,7 +20,7 @@ A collection of awesome WordPress related podcast in all languages.
 
 ## English
 
-* [Apply Filters](http://applyfilters.fm/) - Apply Filters is a podcast dedicated to WordPress development and brought to you by Brad Touesnard and Pippin Williamson.
+* [Apply Filters](http://applyfilters.fm/) (Retired) - Apply Filters is a podcast dedicated to WordPress development and brought to you by Brad Touesnard and Pippin Williamson.
 * [Commit Access](https://commitaccess.com/) - Intimate conversations with WordPress Contributors.
 * [Do the Woo](https://bobwp.com/woocommerce-podcast/) - Do the Woo Podcast where I bring on co-hosts with expertise in the eCommerce and WordPress space to talk about news, products and everything WooCommerce.
 * [How I Built It](https://howibuilt.it/) - How I Built It is a podcast that asks, How did you build that? Look for new episodes every Tuesday!
