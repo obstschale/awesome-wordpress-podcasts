@@ -40,6 +40,7 @@ A collection of awesome WordPress related podcast in all languages.
 * [PressWerk](https://presswerk.net) - Thorsten und Simon besprechen Entwickler Themen, sowie auch Blogger, Anwender und Einsteiger Themen.
 * [WordPress & Webwork Podcast](https://www.perun.net/kategorie/podcast/) - Ein Podcast von perun.net über WordPress und Webwork.
 * [WP Sofa](https://wp-sofa.de) - Das Trio Hans-Helge, René und Sven reden über News in der WP Welt, laden Gäster ein und stellen auch mal Plugins vor.
+* [Meta-Box](https://meta-box.de) - Ulf, Carlos und Frank kommen aus der WordPress Community und reden über WordPress. Und über all das, was einen als "Webworker" noch so betrifft und interessiert. Sei es OpenSource, Netzpolitik, Gesundheit oder Rechtsthemen.
 
 ## Japanese
 
